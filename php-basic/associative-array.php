@@ -25,6 +25,10 @@
 
     // 連想配列の値を出力する
     print_r($personal_data);
+
+    echo '<br>';
+
+    echo $personal_data['gender'];
     ?>
   </p>
 </body>
