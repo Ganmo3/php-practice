@@ -1,0 +1,3 @@
+[submodule "kadai_005"]
+	path = kadai_005
+	url = git@github.com:Ganmo3/php-basic-kadai.git
